@@ -1,0 +1,86 @@
+{
+  "mostPopular": [
+    {
+      "categoryID": 1511622034,
+      "count": 151
+    },
+    {
+      "categoryID": 1511834425,
+      "count": 148
+    },
+    {
+      "categoryID": 1511712025,
+      "count": 148
+    },
+    {
+      "categoryID": 1511964025,
+      "count": 143
+    },
+    {
+      "categoryID": 1511712026,
+      "count": 142
+    },
+    {
+      "categoryID": 1512115225,
+      "count": 142
+    },
+    {
+      "categoryID": 1511784025,
+      "count": 142
+    },
+    {
+      "categoryID": 1511564425,
+      "count": 140
+    },
+    {
+      "categoryID": 1512223225,
+      "count": 139
+    },
+    {
+      "categoryID": 1511895625,
+      "count": 138
+    }
+  ],
+  "recentPopular": [
+    {
+      "categoryID": 1511834425,
+      "count": 106
+    },
+    {
+      "categoryID": 1512115225,
+      "count": 101
+    },
+    {
+      "categoryID": 1511622034,
+      "count": 100
+    },
+    {
+      "categoryID": 1511712025,
+      "count": 97
+    },
+    {
+      "categoryID": 1511791225,
+      "count": 94
+    },
+    {
+      "categoryID": 1511942425,
+      "count": 92
+    },
+    {
+      "categoryID": 1511712026,
+      "count": 88
+    },
+    {
+      "categoryID": 1512007228,
+      "count": 88
+    },
+    {
+      "categoryID": 1512302427,
+      "count": 88
+    },
+    {
+      "categoryID": 1511751639,
+      "count": 87
+    }
+  ]
+}
